@@ -1,0 +1,5 @@
+package groff
+
+const (
+	Comment = `.\"`
+)
